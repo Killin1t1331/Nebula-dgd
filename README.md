@@ -17,3 +17,12 @@ To deploy this interactive matrix utility on any mobile web view, single-page ap
 Theoretical Framework
 DGD operates on a Modulo-9 reduction loop. Localized spatial coordinates collapse cleanly to baseline structural harmonics, allowing complex interlocking star nets to rotate smoothly with minimal CPU cycles. The sound system utilizes a subharmonic 108Hz triangle wave modulated by a 0.25Hz LFO cycle to simulate natural atmospheric pressure differentials.
 Created by Benjamin Travis Clawson (NEBULA)
+
+## ⚡ SUPPORT THE RESISTANCE / DONATIONS
+If you find the Digital Geometry Dynamics (DGD) matrix useful and want to support independent, alternative science research, you can seed the relocation and development runway directly through these open channels:
+
+- PayPal: https://www.paypal.me/BenjaminClawson90
+- Bitcoin (BTC)killin1t@cake.cash
+- Ethereum (ETH): 0x47EC5AB1134BD1Ae40b26d1184da38AF088E498D
+
+"Occam's razor slices both ways. Keep the code open, keep the runway clear."
