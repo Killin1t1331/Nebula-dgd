@@ -1,0 +1,34 @@
+# ====================================================================
+# NEBULA DGD SYSTEM LOCKDOWN - LOCAL TRACE EXCLUSION FILTER
+# ====================================================================
+
+# Block OS Garbage & System Leaks
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Block Desktop & Mobile Environment Configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# Block Diagnostics & Runtime Overhead logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Block Local Network Testing Overrides
+config.local
+.env
+.env.local
+.env.production
