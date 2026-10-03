@@ -1,3 +1,4 @@
+Link to the plugin on itch
 https://killin1t1331.itch.io/nebula-digital-geometry-dynamics-engine
 
 # Contextual Video Overlay Extension
