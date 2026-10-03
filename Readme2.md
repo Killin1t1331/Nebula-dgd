@@ -1,3 +1,5 @@
+https://killin1t1331.itch.io/nebula-digital-geometry-dynamics-engine
+
 # Contextual Video Overlay Extension
 
 A browser extension plugin that enhances video playback by injecting interactive, non-intrusive UI overlays. It surfaces contextual information, historical definitions (like the meaning of *Sophia*), and reference links dynamically based on video content or timestamps.
