@@ -1,4 +1,5 @@
-# Nebula-dgd
+[![CI](https://github.com/Killin1t1331/Nebula-dgd/actions/workflows/blank.yml/badge.svg)](https://github.com/Killin1t1331/Nebula-dgd/actions/workflows/blank.yml)
+#Nebula-dgd
 A lightweight dependency free cross platform utility framework that leverages modular digital root mathematics to solve real time visual scaling constraints and native subharmonic audio generation on mobile hardware. Created by Benjamin Travis Clawson
 
 NEBULA // Digital Geometry Dynamics (DGD) v1.0
